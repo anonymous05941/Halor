@@ -15,7 +15,7 @@ Install the following in advance:
 * Anaconda Package Manager
 * CUDA 12.2
 
-Download the repository from https://anonymous.4open.science/r/Halor and decompress the archived files..
+Download the repository from https://anonymous.4open.science/r/Halor and decompress the archived files.
 
 Run the following commands to install the Halor conda environment. 
 
