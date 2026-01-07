@@ -1,4 +1,4 @@
-## Halor: High-Privacy-Preserving Data Management with Global Alignment for Federated Learning
+## Halor: High-Privacy-Preserving Data Management for Federated Learning
 
 
 This repository contains scripts and instructions of running Halor, a efficient and data management framework for federated learning systems in highly dynamic environments. Halor employs a privacy-protective chained communication architecture to facilitate the secret sharing of {local label statistics and allow the server to accurately ascertain the global training data distribution. Then, it reorganizes the training data of each participant selected by existing participant selection strategies, aligning the local distribution with the global distribution to mitigate drift caused by data skewness.
